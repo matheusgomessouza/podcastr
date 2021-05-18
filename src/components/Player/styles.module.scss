@@ -19,7 +19,7 @@
         }
         footer {
             align-self: stretch;
-            &.empty {
+            &.empty .progress {
                 opacity: 0.5;
             }
         }
