@@ -13,6 +13,8 @@ O Podcastr é uma aplicação com foco para reprodução de episódios em áudio
 - [React](https://reactjs.org/)
 - [NextJS](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
+- [Axios](https://axios-http.com/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
